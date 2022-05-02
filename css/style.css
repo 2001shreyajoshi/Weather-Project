@@ -1,0 +1,9 @@
+body{
+    height:100vh;
+    background-color: bisque;
+}
+.container{
+    text-align: center;
+    display:block;
+   
+}
